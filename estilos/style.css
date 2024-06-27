@@ -95,6 +95,7 @@ h3 {
     font-style:unset;
     font-weight: 900;
     text-align: center;
+    margin-top: 20px;
 }
 
 h4{
@@ -117,6 +118,7 @@ p{
     padding: 40px;
     margin: 50px;
 }
+
 .generica{
     background-color: rgba(224, 243, 127, 0.855) ;
     font-family: "Poppins", sans-serif;
