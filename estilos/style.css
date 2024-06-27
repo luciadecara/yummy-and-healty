@@ -131,15 +131,12 @@ p{
     margin: 50px;
 }
 img{
-    
+    margin-bottom: 40px;
+    padding-bottom: 3px;
+    border-radius: 4px;
 }
 
 
-
-
-footer {
-    background-color: rgba(70, 128, 176, 0.959);
-}
 
 .container {
     padding-bottom: 35px;
