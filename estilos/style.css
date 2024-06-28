@@ -141,7 +141,38 @@ img{
 .container {
     padding-bottom: 35px;
 }
-    
+
+.grid-contenedor {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px; 
+    align-items: center; 
+}
+.grid-contenedor p {
+    margin: 0; 
+}
+.grid-contenedor img {
+    max-width: 100%;
+    height: auto; 
+}
+
+.grid-dos {
+    display: grid;
+    grid-template-columns: 1fr 2fr; 
+    gap: 20px; 
+    align-items: start; 
+}
+.grid-dos img {
+    max-width: 80%; 
+    height: auto;
+    margin-top: 20px;
+}
+.grid-dos h3 {
+    margin: 5px;
+}
+.grid-dos p {
+    margin-bottom: 50px;
+}
 
 @media (min-width: 124px){
 
