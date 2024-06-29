@@ -128,17 +128,19 @@ p{
     padding: 40px;
     margin: 50px;
 }
-img{
-    
-}
 
 
 
 
 footer {
     background-color: rgba(70, 128, 176, 0.959);
-}
-    
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 30px;
+    padding: 40px;
+    margin: 50px;}
+
+
 
 @media (min-width: 124px){
 
